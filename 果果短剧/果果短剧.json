@@ -1,0 +1,18 @@
+{
+	"dramas": [
+		{
+			"key": "guoguoduanju",
+			"name": "🍎果果短剧",
+			"type": 3,
+			"api": "csp_Guoguoduanju",
+			"jar": "./lib/guoguoduanju-spider.jar;md5;8969cbde42fa16842000b20b44be9479",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "drama"
+		}
+	]
+}

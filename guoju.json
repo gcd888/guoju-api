@@ -1,0 +1,12 @@
+{
+  "urls": [
+	{
+      "url": "https://gcd888.github.io/kele/src/guoju-api/果果短剧/果果短剧.json",
+      "name": "🍎果果短剧"
+    },
+    {
+      "url": "https://gcd888.github.io/kele/src/guoju-api/果果音乐/果果音乐.json",
+      "name": "🍎果果音乐"
+    }
+  ]
+}

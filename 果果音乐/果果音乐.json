@@ -1,0 +1,18 @@
+{
+	"musics": [
+		{
+			"key": "guoguoyinyue",
+			"name": "🍎果果音乐",
+			"type": 3,
+			"api": "csp_Guoguoyinyue",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;35de4c3a68033844afbab739208e3ace",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		}
+	]
+}
