@@ -5,7 +5,91 @@
 			"name": "🍎果果音乐",
 			"type": 3,
 			"api": "csp_Guoguoyinyue",
-			"jar": "./lib/guoguoyinyue-spider.jar;md5;35de4c3a68033844afbab739208e3ace",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_netease",
+			"name": "🎵网易云",
+			"type": 3,
+			"api": "csp_GuoguoyinyueNetease",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_qq",
+			"name": "🐧QQ音乐",
+			"type": 3,
+			"api": "csp_GuoguoyinyueQq",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_kugou",
+			"name": "🐶酷狗",
+			"type": 3,
+			"api": "csp_GuoguoyinyueKugou",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_soda",
+			"name": "🥤汽水",
+			"type": 3,
+			"api": "csp_GuoguoyinyueSoda",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_kuwo",
+			"name": "🎧酷我",
+			"type": 3,
+			"api": "csp_GuoguoyinyueKuwo",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "music"
+		},
+		{
+			"key": "guoguoyinyue_migu",
+			"name": "🎤咪咕",
+			"type": 3,
+			"api": "csp_GuoguoyinyueMigu",
+			"jar": "./lib/guoguoyinyue-spider.jar;md5;211d8e2a31c99d7f64706b367370332d",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -16,3 +100,5 @@
 		}
 	]
 }
+
+
