@@ -5,7 +5,7 @@
 			"name": "🍎果果短剧",
 			"type": 3,
 			"api": "csp_Guoguoduanju",
-			"jar": "./lib/guoguoduanju-spider.jar;md5;f9c2c0878e39bec6ec391a59ae1c5bbe",
+			"jar": "./lib/guoguoduanju-spider.jar;md5;a58206af421c1d30a1cbbbdc33f63a5b",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
