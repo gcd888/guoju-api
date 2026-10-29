@@ -86,7 +86,7 @@
 		},
 		{
 			"key": "luoxueyinyue_mi",
-			"name": "🎤小蜜",
+			"name": "🎧小蜜",
 			"type": 3,
 			"api": "csp_LuoxueyinyueMi",
 			"jar": "./lib/luoxueyinyue-spider.jar;md5;e0bd1909eeb06f833579bdb1910c079f",
