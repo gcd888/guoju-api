@@ -2,15 +2,19 @@
   "urls": [
 	{
       "url": "https://gitcode.com/api/v5/repos/gcd888/guoju-api/raw/果果短剧/果果短剧.json?ref=main",
-      "name": "🍎果果短剧"
-    },
-    {
-      "url": "https://gitcode.com/api/v5/repos/gcd888/guoju-api/raw/番茄短剧/番茄短剧.json?ref=main",
-      "name": "🍅番茄短剧"
+      "name": "🍐青果短剧 · 🍅西红短剧"
     },
     {
       "url": "https://gitcode.com/api/v5/repos/gcd888/guoju-api/raw/果果音乐/果果音乐.json?ref=main",
       "name": "🍎果果音乐"
+    },
+    {
+      "url": "https://gitcode.com/api/v5/repos/gcd888/guoju-api/raw/果果影视/果果影视.json?ref=main",
+      "name": "🍎果果影视"
+    },
+    {
+      "url": "https://gitcode.com/api/v5/repos/gcd888/guoju-api/raw/果果直播/果果直播.json?ref=main",
+      "name": "🍎果果直播"
     }
   ]
 }
