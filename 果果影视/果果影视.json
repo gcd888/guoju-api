@@ -2,7 +2,7 @@
 	"sites": [
 		{
 			"key": "drpy_js_豆瓣",
-			"name": "💥最新软件接口获取❤Link3.cc/uuccc❤",
+			"name": "guoguo",
 			"type": 3,
 			"api": "csp_Douban",
 			"ext": "./lib/extsrc/ysc-douban.json",
@@ -1019,7 +1019,7 @@
 		},
 		{
 			"key": "ext_live_protocol",
-			"name": "导航 http://bhapp.top/",
+			"name": "导航 guoguo",
 			"type": 3,
 			"api": "csp_XPath",
 			"searchable": 0,
