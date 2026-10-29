@@ -1,0 +1,18 @@
+{
+	"dramas": [
+		{
+			"key": "fanqieduanju",
+			"name": "🍅番茄短剧",
+			"type": 3,
+			"api": "csp_Fanqieduanju",
+			"jar": "./lib/fanqieduanju-spider.jar;md5;ed483046105f9dc7388044cbc551f455",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 1,
+			"playerType": 2,
+			"timeout": 45,
+			"style": "drama"
+		}
+	]
+}
