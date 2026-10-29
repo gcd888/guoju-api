@@ -66,7 +66,7 @@
 			"name": "🅱️哔哩短剧",
 			"type": 3,
 			"api": "csp_Bili",
-			"jar": "./lib/bili-spider.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16",
+			"jar": "./lib/bili-spider.jar;md5;2faffa26e94c2621d7ae3a61a9678324",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
