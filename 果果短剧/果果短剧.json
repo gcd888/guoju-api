@@ -30,7 +30,7 @@
 		},
 		{
 			"key": "HonHon",
-			"name": "🍅红红短剧",
+			"name": "❤️红红短剧",
 			"type": 3,
 			"api": "csp_HonHon",
 			"jar": "./lib/honghong-spider.jar;md5;835b242eab0da4d3402724dd4705a9e8",
@@ -148,7 +148,7 @@
 		},
 		{
 			"key": "csp_XBPQ_duanjuwang",
-			"name": "🎧刷刷短剧",
+			"name": "📱刷刷短剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xbpq-hccx-spider.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
@@ -198,7 +198,7 @@
 		},
 		{
 			"key": "csp_XBPQ_aoaotv",
-			"name": "🍅嗷嗷短剧",
+			"name": "🐺嗷嗷短剧",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "./lib/xbpq-spider.jar;md5;5c5116c70e15343433c8480c3b448408",
@@ -258,7 +258,7 @@
 		},
 		{
 			"key": "ManJuAiHongGuo",
-			"name": "🍉漫短小红",
+			"name": "🍎漫短小红",
 			"type": 3,
 			"api": "csp_ManJuAiHongGuoGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -272,7 +272,7 @@
 		},
 		{
 			"key": "ManJuAiHuoLong",
-			"name": "🍉漫剧小龙",
+			"name": "🐉漫剧小龙",
 			"type": 3,
 			"api": "csp_ManJuAiHuoLongGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -286,7 +286,7 @@
 		},
 		{
 			"key": "ManJuAiQiMao",
-			"name": "🍉漫剧小猫",
+			"name": "🐱漫剧小猫",
 			"type": 3,
 			"api": "csp_ManJuAiQiMaoGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -300,7 +300,7 @@
 		},
 		{
 			"key": "ManJuAiXiFan",
-			"name": "🍉漫短小喜",
+			"name": "🎊漫短小喜",
 			"type": 3,
 			"api": "csp_ManJuAiXiFanGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -314,7 +314,7 @@
 		},
 		{
 			"key": "ManJuAiHeMa",
-			"name": "🍉漫短小马",
+			"name": "🐴漫短小马",
 			"type": 3,
 			"api": "csp_ManJuAiHeMaGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -328,7 +328,7 @@
 		},
 		{
 			"key": "DuanJuAiHaoKan",
-			"name": "🍉短剧好看",
+			"name": "⭐短剧好看",
 			"type": 3,
 			"api": "csp_DuanJuAiHaoKanGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -342,7 +342,7 @@
 		},
 		{
 			"key": "DuanJuAiQiMiao",
-			"name": "🍉短剧小猫",
+			"name": "🐈短剧小猫",
 			"type": 3,
 			"api": "csp_DuanJuAiQiMiaoGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -356,7 +356,7 @@
 		},
 		{
 			"key": "DuanJuAiXingYa",
-			"name": "🍉短剧星星",
+			"name": "🌟短剧星星",
 			"type": 3,
 			"api": "csp_DuanJuAiXingYaGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -370,7 +370,7 @@
 		},
 		{
 			"key": "DuanJuAiWeiGuan",
-			"name": "🍉短剧小薇",
+			"name": "🌸短剧小薇",
 			"type": 3,
 			"api": "csp_DuanJuAiWeiGuanGuard",
 			"jar": "./lib/wangxiaoer-spider.jar;md5;09c3693dd068fd9b586f45d7d9c71916",
@@ -384,7 +384,7 @@
 		},
 		{
 			"key": "AiDj",
-			"name": "❤️AI短漫剧",
+			"name": "🤖AI短漫剧",
 			"type": 3,
 			"api": "csp_AiDjGuard",
 			"jar": "./lib/fty-spider.jar;md5;c9024ccf34209d26eb556c728c3f07fa",
