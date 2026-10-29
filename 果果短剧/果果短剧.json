@@ -16,7 +16,7 @@
 		},
 		{
 			"key": "xihongshiduanju",
-			"name": "🍅西红短剧",
+			"name": "🍅西红柿短剧",
 			"type": 3,
 			"api": "csp_Xihongshiduanju",
 			"jar": "./lib/xihongshiduanju-spider.jar;md5;e6dd56232f44005fd8aa3804a80efe71",
