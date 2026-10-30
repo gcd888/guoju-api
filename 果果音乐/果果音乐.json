@@ -259,7 +259,7 @@
 			"name": "🎤欢唱K歌",
 			"type": 3,
 			"api": "csp_Huanlekge",
-			"jar": "./lib/huanlekge-spider.jar;md5;e78d4a96576fdf2da834257debbab866",
+			"jar": "./lib/huanlekge-spider.jar;md5;e80b78a104658151bc870649fd311429",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
