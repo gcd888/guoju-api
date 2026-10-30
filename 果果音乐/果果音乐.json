@@ -13,7 +13,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_xiaoyin",
@@ -28,7 +29,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_luoxue",
@@ -43,7 +45,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_fengchuiye",
@@ -58,7 +61,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_fenghuang",
@@ -73,7 +77,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_lianting",
@@ -88,7 +93,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_qingmeng",
@@ -103,7 +109,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_yecao",
@@ -118,7 +125,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_juhe_cf",
@@ -133,7 +141,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_hello_world",
@@ -148,7 +157,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_changqing",
@@ -163,7 +173,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_donghua",
@@ -178,7 +189,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_tianya",
@@ -193,7 +205,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_qingsebian",
@@ -208,7 +221,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_yehua",
@@ -223,7 +237,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "lx_dujia_v7",
@@ -238,7 +253,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "music"
+			"style": "music",
+			"abilities": "music"
 		},
 		{
 			"key": "guoguoyunying",
@@ -252,7 +268,8 @@
 			"changeable": 1,
 			"playerType": 2,
 			"timeout": 45,
-			"style": "mv"
+			"style": "mv",
+			"abilities": "mv"
 		}
 	]
 }
