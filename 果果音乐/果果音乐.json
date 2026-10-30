@@ -253,20 +253,6 @@
 			"playerType": 2,
 			"timeout": 45,
 			"style": "mv"
-		},
-		{
-			"key": "huanlekge",
-			"name": "🎤欢唱K歌",
-			"type": 3,
-			"api": "csp_Huanlekge",
-			"jar": "./lib/huanlekge-spider.jar;md5;5ad8dd45a70494b7e5e970f28e046026",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"playerType": 2,
-			"timeout": 45,
-			"style": "music"
 		}
 	]
 }
