@@ -19,7 +19,7 @@
 			"name": "🍅西红柿短剧",
 			"type": 3,
 			"api": "csp_Xihongshiduanju",
-			"jar": "./lib/xihongshiduanju-spider.jar;md5;3708ea8f46066fda5489004295463e86",
+			"jar": "./lib/xihongshiduanju-spider.jar;md5;0c23f8d4fada1e387920b52ad0f8be9d",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
