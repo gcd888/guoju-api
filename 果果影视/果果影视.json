@@ -6,7 +6,7 @@
 			"type": 3,
 			"api": "csp_Douban",
 			"ext": "./lib/extsrc/ysc-douban.json",
-			"jar": "http://47.120.41.246:8025/vip/jar/tan.php"
+			"jar": "./lib/fish-17.jar;md5;5d14ddf4289dcbcc4bd55705d3315369"
 		},
 		{
 			"key": "配置中心",
