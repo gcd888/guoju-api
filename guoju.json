@@ -1,19 +1,19 @@
 {
   "urls": [
 	{
-      "url": "https://guoju.970809.xyz/cfg/果果短剧/果果短剧.json?ref=main",
+      "url": "https://guoju.970809.xyz/cfg/果果短剧/果果短剧.json?ref=v0.2",
       "name": "🍎果果短剧"
     },
     {
-      "url": "https://guoju.970809.xyz/cfg/果果音乐/果果音乐.json?ref=main",
+      "url": "https://guoju.970809.xyz/cfg/果果音乐/果果音乐.json?ref=v0.2",
       "name": "🍎果果音乐"
     },
     {
-      "url": "https://guoju.970809.xyz/cfg/果果影视/果果影视.json?ref=main",
+      "url": "https://guoju.970809.xyz/cfg/果果影视/果果影视.json?ref=v0.2",
       "name": "🍎果果影视"
     },
     {
-      "url": "https://guoju.970809.xyz/cfg/果果直播/果果直播.json?ref=main",
+      "url": "https://guoju.970809.xyz/cfg/果果直播/果果直播.json?ref=v0.2",
       "name": "🍎果果直播"
     }
   ]
